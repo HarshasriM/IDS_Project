@@ -11,7 +11,7 @@ lightgbm
 flask
 tqdm
 wandb
-scikit-plot
+scikit-plot==1.7.2
 flask
 flask-cors
 streamlit
