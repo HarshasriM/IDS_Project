@@ -1,7 +1,7 @@
 # Intrusion Detection System (IDS)
 
 **Project**: ML-based Intrusion Detection System using NSL-KDD (KDD99) features  
-**Author**: Your Name — add your GitHub handle  
+**Author**: Harsha Sri Meda -- github.com/HarshaSriM                           
 **Status**: Prototype — preprocessing, EDA, baseline & XGBoost models, Flask API and Streamlit UI included
 
 ---
